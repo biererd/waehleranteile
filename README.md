@@ -6,7 +6,7 @@ https://www.gr.ch/DE/publikationen/abstimmungenwahlen/Grossratswahlen-2022/Resul
 
 der Wähleranteil der FDP in Prozent mit Hilfe von Ganzzahlarithmetik berechnet:
 
-$$ x = {3508315900 \over 159276431} \approx 22.026585339547193 $$
+$$ p = {3508315900 \over 159276431} \approx 22.026585339547193 $$
 
 Java-Quelltext:<br>
 https://github.com/biererd/waehleranteile/tree/main/src/main/java/ch/zh/waehleranteile/main
