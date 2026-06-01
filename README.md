@@ -14,6 +14,8 @@ Der relative prozentuale Fehler der oben angegebenen Dezimalzahl wurde ebenfalls
 
 $$ e = {-57108183 \over 35083159000000000000000} \approx -1.6277947775455454E-15 $$
 
+<br>
+
 ## Java-Quelltext
   
 | Beschreibung           | Link                                                                                                               |
@@ -25,7 +27,7 @@ $$ e = {-57108183 \over 35083159000000000000000} \approx -1.6277947775455454E-15
 | Anzahl Wähler GLP      | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler04GLP.java      |
 | Anzahl Wähler MitteGR  | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler05MitteGR.java  |
   
-
+<br>
 
 ## Python-Quelltext
 
