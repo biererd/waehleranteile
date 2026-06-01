@@ -1,7 +1,5 @@
 # Berechnung des Wähleranteils der FDP bei den Grossratswahlen 2022 im Kanton Graubünden
 
-<br>
-
 ## Einführung
 
 Es wurde aus den ganzen Zahlen im Wahlprotokoll der Grossratswahlen 2022 im Kanton Graubünden
@@ -16,7 +14,6 @@ Der relative prozentuale Fehler der oben angegebenen Dezimalzahl wurde ebenfalls
 
 $$ e = {-57108183 \over 35083159000000000000000} \\% \approx -1.6277947775455454E-15 \\% $$
 
-<br>
 
 ## Java-Quelltext
   
@@ -28,7 +25,7 @@ $$ e = {-57108183 \over 35083159000000000000000} \\% \approx -1.6277947775455454
 | Anzahl Wähler SVP      | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler03SVP.java      |
 | Anzahl Wähler GLP      | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler04GLP.java      |
 | Anzahl Wähler MitteGR  | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler05MitteGR.java  |
-  
+
 <br>
 
 ## Python-Quelltext
