@@ -1,5 +1,7 @@
 # Berechnung des Wähleranteils der FDP bei den Grossratswahlen 2022 im Kanton Graubünden
 
+<br>
+
 ## Einführung
 
 Es wurde aus den ganzen Zahlen im Wahlprotokoll der Grossratswahlen 2022 im Kanton Graubünden
