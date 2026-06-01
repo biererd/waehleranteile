@@ -16,7 +16,11 @@ $$ p = {3508315900 \over 159276431} \approx 22.026585339547193 $$
 | Beschreibung           | Link                                                                                                               |
 |:---------------------- |:------------------------------------------------------------------------------------------------------------------ |
 | Hauptprogramm          | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Main.java              |
-| Anzahl Wähler SP&Grüne | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler01SPGruene.java |
+| Anzahl Wähler SP/Grüne | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler01SPGruene.java |
+| Anzahl Wähler FDP      | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler02FDP.java      |
+| Anzahl Wähler SVP      | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler03SVP.java      |
+| Anzahl Wähler GLP      | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler04GLP.java      |
+| Anzahl Wähler MitteGR  | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler05MitteGR.java  |
   
 </small>
 
