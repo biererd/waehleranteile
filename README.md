@@ -14,9 +14,7 @@ Der relative prozentuale Fehler der oben angegebenen Dezimalzahl wurde ebenfalls
 
 $$ e = {-57108183 \over 35083159000000000000000} \approx -1.6277947775455454E-15 $$
 
-
 ## Java-Quelltext
-<small>
   
 | Beschreibung           | Link                                                                                                               |
 |:---------------------- |:------------------------------------------------------------------------------------------------------------------ |
@@ -27,8 +25,16 @@ $$ e = {-57108183 \over 35083159000000000000000} \approx -1.6277947775455454E-15
 | Anzahl Wähler GLP      | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler04GLP.java      |
 | Anzahl Wähler MitteGR  | https://github.com/biererd/waehleranteile/blob/main/src/main/java/ch/zh/waehleranteile/main/Waehler05MitteGR.java  |
   
-</small>
 
-## Python-Quelltext:<br>
-https://github.com/biererd/waehleranteile/tree/main/python
+
+## Python-Quelltext
+
+| Beschreibung           | Link                                                                                                               |
+|:---------------------- |:------------------------------------------------------------------------------------------------------------------ |
+| Hauptprogramm          | https://github.com/biererd/waehleranteile/blob/main/python/kantonGR.py                                             |
+| Anzahl Wähler SP/Grüne | https://github.com/biererd/waehleranteile/blob/main/python/waehler01SPGruene.py                                    |
+| Anzahl Wähler FDP      | https://github.com/biererd/waehleranteile/blob/main/python/waehler02FDP.py                                         |
+| Anzahl Wähler SVP      | https://github.com/biererd/waehleranteile/blob/main/python/waehler03SVP.py                                         |
+| Anzahl Wähler GLP      | https://github.com/biererd/waehleranteile/blob/main/python/waehler04GLP.py                                         |
+| Anzahl Wähler MitteGR  | https://github.com/biererd/waehleranteile/blob/main/python/waehler05MitteGR.py                                     |
 
